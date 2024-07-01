@@ -1,14 +1,16 @@
 RAGE JUMPER
 
-Repository made for play testing
-
-
-CONTROLS
-A = LEFT
-D = RIGHT
-R = RESTART (PLAYTEST ONLY)
-SPACE = JUMP
-
+- Repository made for play testing
+-
+-
+-
+-
+- CONTROLS
+- A = LEFT
+- D = RIGHT
+- R = RESTART (PLAYTEST ONLY)
+- SPACE = JUMP
+-
 - REACH THE TOP
 - HOLDING DOWN JUMP GIVES EXTRA HEIGHT
 - YOU CAN ONLY MOVE WHEN JUMPING
